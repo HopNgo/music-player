@@ -5,47 +5,47 @@ const songs = [
     {
         name: "Tình Đẹp Đến Mấy Cũng Tàn Thôi",
         singer: "Như Việt",
-        path: "https://vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn/54a93e461f01f65faf10/1176338179174070267?authen=exp=1638350715~acl=/54a93e461f01f65faf10/*~hmac=d3caa7821c202c44334cef00adf299d8&amp;fs=MTYzODE3NzkxNTQ4M3x3ZWJWNnwwfDEdUngNTQdUngMjE2LjEyMg",
+        path: "https://vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn/54a93e461f01f65faf10/1176338179174070267?authen=exp=1642043635~acl=/54a93e461f01f65faf10/*~hmac=cc366560b4bb79bb6968d148526c6432&amp;fs=MTY0MTg3MDgzNTQzMXx3ZWJWNnwwfDE0LjE3NC4xMzEdUngMTE2",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/7/3/2/5/73257d3f2cb6b1c16719bebc443980f9.jpg",
     },
     {
         name: "Hơn Cả Yêu",
         singer: "Đức Phúc",
-        path: "https://vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn/a63b11400c07e559bc16/6706952041522412104?authen=exp=1638351011~acl=/a63b11400c07e559bc16/*~hmac=b3110442bbffb93794f674e2a21fef6e&amp;fs=MTYzODE3ODIxMTmUsICzN3x3ZWJWNnwxMDmUsIC4NzM5NzA3fDExNS43NC45Ny4x",
+        path: "https://vnso-zn-15-tf-mp3-s1-zmp3.zadn.vn/a63b11400c07e559bc16/6706952041522412104?authen=exp=1642044021~acl=/a63b11400c07e559bc16/*~hmac=79bfd4f5eef9d44fa9f674fbbc825755&amp;fs=MTY0MTg3MTIyMTmUsICwM3x3ZWJWNnwxMDMxNTg3NDEwfDI3LjmUsICxLjUyLjU",
         image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/a/9/e/d/a9ed142c215560ab45f6b2b433907f90.jpg",
     },
     {
         name: "Cứ Ngỡ Là Anh",
         singer: "Đinh Tùng Huy",
-        path: "https://vnso-zn-10-tf-mp3-s1-zmp3.zadn.vn/086a057d193af064a92b/7005370822568069825?authen=exp=1638351068~acl=/086a057d193af064a92b/*~hmac=0db952b8a0004481d5f766e5cea5c1dd&amp;fs=MTYzODE3ODI2ODEyMHx3ZWJWNnwwfDE3MS4yMzEdUngNzkdUngMTMz",
+        path: "https://vnso-zn-10-tf-mp3-s1-zmp3.zadn.vn/086a057d193af064a92b/7005370822568069825?authen=exp=1642043909~acl=/086a057d193af064a92b/*~hmac=f2aa10203c9bf64f29957145cfd78296&amp;fs=MTY0MTg3MTEwOTU2NHx3ZWJWNnwxMDE0MTMxOTU3fDExNy4xLjE2Mi4yMTE",
         image: "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/3/8/2/5/382563b06858cc9c5b7397a81ed62761.jpg",
     },
     {
         name: "Đánh Mất Em",
         singer: "Quang Đăng Trần",
-        path: "https://vnso-zn-5-tf-mp3-s1-zmp3.zadn.vn/10dbaa50e2170b495206/5778850278162108473?authen=exp=1638350785~acl=/10dbaa50e2170b495206/*~hmac=530048e29332f121162f6cfb8298811f&amp;fs=MTYzODE3Nzk4NTUzNnx3ZWJWNnwwfDEyNS4yMzUdUngMjM0LjIzMQ",
+        path: "https://mp3-s1-zmp3.zadn.vn/10dbaa50e2170b495206/5778850278162108473?authen=exp=1642044315~acl=/10dbaa50e2170b495206/*~hmac=3ed2d2b6a2fb0c26ee2809f8f9f79def&amp;fs=MTY0MTg3MTUxNTA2OHx3ZWJWNnwxMDM0MTQ1NjA0fDExMy4xOTAdUngMjMzLjmUsICz",
         image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg",
     },
     {
         name: "Anh Từng Cố Gắng",
         singer: "Nhật Phong",
-        path: "https://mp3-s1-zmp3.zadn.vn/d0e04cf5feb217ec4ea3/7334509728721487332?authen=exp=1638351131~acl=/d0e04cf5feb217ec4ea3/*~hmac=2bcfe42b3f005958efaf75645d79607a&amp;fs=MTYzODE3ODMzMTkzOXx3ZWJWNnwwfDExNi4xMDgdUngOTYdUngMTE0",
+        path: "https://vnso-zn-10-tf-mp3-s1-zmp3.zadn.vn/d0e04cf5feb217ec4ea3/7334509728721487332?authen=exp=1642044040~acl=/d0e04cf5feb217ec4ea3/*~hmac=4edc7ef54ea6ffa80bc1378189d8c7ae&amp;fs=MTY0MTg3MTI0MDQ2N3x3ZWJWNnwwfDQyLjExMi44OS4yNA",
         image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/7/7/1/9/771952620070edb088442430b60ea681.jpg",
     },
     {
         name: "Răng Khôn",
         singer: "Phí Phương Anh, RIN9",
-        path: "https://mp3-s1-zmp3.zadn.vn/a2e92a371e71f72fae60/1885276178088752158?authen=exp=1638365820~acl=/a2e92a371e71f72fae60/*~hmac=422cb558927898cd1ed0b6c401433ef4&amp;fs=MTYzODE5MzAyMDI3NXx3ZWJWNnwxMDU5OTkxNzM1fDExNi4xMDmUsICdUngMTgxLjI1",
+        path: "https://vnso-zn-10-tf-mp3-s1-zmp3.zadn.vn/a2e92a371e71f72fae60/1885276178088752158?authen=exp=1642043944~acl=/a2e92a371e71f72fae60/*~hmac=a32d933587e7304e9d797a925f37d8e8&amp;fs=MTY0MTg3MTE0NDE5Mnx3ZWJWNnwwfDI3LjmUsIC5Ljk0LjIwMg",
         image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/b/7/b/5/b7b5b99e4aa374702ce8ee64858a9bbb.jpg",
     },
     {
         name: "Khi Em Lớn",
         singer: "Orange, Hoàng Dũng",
-        path: "https://mp3-s1-zmp3.zadn.vn/21518188bace53900adf/1536582395499953959?authen=exp=1638366144~acl=/21518188bace53900adf/*~hmac=db0aa8f7353e2f949a7e916ea9552b56&amp;fs=MTYzODE5MzM0NDE1MXx3ZWJWNnwwfDExMy4yMy4xNy4zNw",
+        path: "https://mp3-s1-zmp3.zadn.vn/21518188bace53900adf/1536582395499953959?authen=exp=1642044125~acl=/21518188bace53900adf/*~hmac=7b919cf7d761721aa282811024071abc&amp;fs=MTY0MTg3MTMyNTk2MXx3ZWJWNnwwfDEyMy4xNi4xMy4zNw",
         image:
             "https://photo-resize-zmp3.zadn.vn/w240_r1x1_webp/cover/c/4/3/a/c43a3f7cc98ee9c62401edb8fb999b74.jpg",
     }
