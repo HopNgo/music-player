@@ -5,49 +5,49 @@ const songs = [
     {
         name: "Tình Đẹp Đến Mấy Cũng Tàn Thôi",
         singer: "Như Việt",
-        path: "./music-player/assets/audios/tinhdepdenmaycungtanthoi.mp3",
-        image: "./music-player/assets/images/tinhdepdenmaycungtanthoi.png",
+        path: "./assets/audios/tinhdepdenmaycungtanthoi.mp3",
+        image: "./assets/images/tinhdepdenmaycungtanthoi.png",
     },
     {
         name: "Hơn Cả Yêu",
         singer: "Đức Phúc",
-        path: "./music-player/assets/audios/honcayeu.mp3",
+        path: "./assets/audios/honcayeu.mp3",
         image:
-            "./music-player/assets/images/honcayeu.png",
+            "./assets/images/honcayeu.png",
     },
     {
         name: "Cứ Ngỡ Là Anh",
         singer: "Đinh Tùng Huy",
-        path: "./music-player/assets/audios/cungolaanh.mp3",
-        image: "./music-player/assets/images/cungolaanh.png",
+        path: "./assets/audios/cungolaanh.mp3",
+        image: "./assets/images/cungolaanh.png",
     },
     {
         name: "Đánh Mất Em",
         singer: "Quang Đăng Trần",
-        path: "./music-player/assets/audios/danhmatem.mp3",
+        path: "./assets/audios/danhmatem.mp3",
         image:
-            "./music-player/assets/images/danhmatem.png",
+            "./assets/images/danhmatem.png",
     },
     {
         name: "Anh Từng Cố Gắng",
         singer: "Nhật Phong",
-        path: "./music-player/assets/audios/anhtungcogang.mp3",
+        path: "./assets/audios/anhtungcogang.mp3",
         image:
-            "./music-player/assets/images/anhtungcogang.png",
+            "./assets/images/anhtungcogang.png",
     },
     {
         name: "Răng Khôn",
         singer: "Phí Phương Anh, RIN9",
-        path: "./music-player/assets/audios/rangkhon.mp3",
+        path: "./assets/audios/rangkhon.mp3",
         image:
-            "./music-player/assets/images/rangkhon.png",
+            "./assets/images/rangkhon.png",
     },
     {
         name: "Khi Em Lớn",
         singer: "Orange, Hoàng Dũng",
-        path: "./music-player/assets/audios/khiemlon.mp3",
+        path: "./assets/audios/khiemlon.mp3",
         image:
-            "./music-player/assets/images/khiemlon.png",
+            "./assets/images/khiemlon.png",
     }
 ];
 
